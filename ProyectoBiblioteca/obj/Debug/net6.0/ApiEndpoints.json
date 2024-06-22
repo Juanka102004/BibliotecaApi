@@ -1,0 +1,540 @@
+[
+  {
+    "ContainingType": "ProyectoBiblioteca.Controllers.AutorController",
+    "Method": "obtenerAutores",
+    "RelativePath": "api/Autor",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoBiblioteca.Controllers.AutorController",
+    "Method": "registrarAutor",
+    "RelativePath": "api/Autor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reg",
+        "Type": "ProyectoBiblioteca.Models.Autor",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoBiblioteca.Controllers.AutorController",
+    "Method": "actualizarAutor",
+    "RelativePath": "api/Autor",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reg",
+        "Type": "ProyectoBiblioteca.Models.Autor",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoBiblioteca.Controllers.AutorController",
+    "Method": "obtenerAutor",
+    "RelativePath": "api/Autor/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoBiblioteca.Controllers.AutorController",
+    "Method": "eliminarAutor",
+    "RelativePath": "api/Autor/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoBiblioteca.Controllers.CategoriaController",
+    "Method": "obtenerCategorias",
+    "RelativePath": "api/Categoria",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoBiblioteca.Controllers.CategoriaController",
+    "Method": "registrarCategoria",
+    "RelativePath": "api/Categoria",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reg",
+        "Type": "ProyectoBiblioteca.Models.Categoria",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoBiblioteca.Controllers.CategoriaController",
+    "Method": "actualizarCategoria",
+    "RelativePath": "api/Categoria",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reg",
+        "Type": "ProyectoBiblioteca.Models.Categoria",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoBiblioteca.Controllers.CategoriaController",
+    "Method": "obtenerCategoria",
+    "RelativePath": "api/Categoria/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoBiblioteca.Controllers.CategoriaController",
+    "Method": "eliminarCategoria",
+    "RelativePath": "api/Categoria/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoBiblioteca.Controllers.ClienteController",
+    "Method": "obtenerClientes",
+    "RelativePath": "api/Cliente",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoBiblioteca.Controllers.ClienteController",
+    "Method": "registrarCliente",
+    "RelativePath": "api/Cliente",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reg",
+        "Type": "ProyectoBiblioteca.Models.Cliente",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoBiblioteca.Controllers.ClienteController",
+    "Method": "actualizarCliente",
+    "RelativePath": "api/Cliente",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reg",
+        "Type": "ProyectoBiblioteca.Models.Cliente",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoBiblioteca.Controllers.ClienteController",
+    "Method": "obtenerCliente",
+    "RelativePath": "api/Cliente/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoBiblioteca.Controllers.ClienteController",
+    "Method": "eliminarCliente",
+    "RelativePath": "api/Cliente/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoBiblioteca.Controllers.EditorialController",
+    "Method": "obtenerEditoriales",
+    "RelativePath": "api/Editorial",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoBiblioteca.Controllers.EditorialController",
+    "Method": "registrarEditorial",
+    "RelativePath": "api/Editorial",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reg",
+        "Type": "ProyectoBiblioteca.Models.Editorial",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoBiblioteca.Controllers.EditorialController",
+    "Method": "actualizarEditorial",
+    "RelativePath": "api/Editorial",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reg",
+        "Type": "ProyectoBiblioteca.Models.Editorial",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoBiblioteca.Controllers.EditorialController",
+    "Method": "obtenerEditorial",
+    "RelativePath": "api/Editorial/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoBiblioteca.Controllers.EditorialController",
+    "Method": "eliminarEditorial",
+    "RelativePath": "api/Editorial/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoBiblioteca.Controllers.EstadoPrestamoController",
+    "Method": "obtenerEstadoPrestamo",
+    "RelativePath": "api/EstadoPrestamo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoBiblioteca.Controllers.EstadoPrestamoController",
+    "Method": "registrarEstadoPrestamo",
+    "RelativePath": "api/EstadoPrestamo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reg",
+        "Type": "ProyectoBiblioteca.Models.Estado_Prestamo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoBiblioteca.Controllers.EstadoPrestamoController",
+    "Method": "actualizarEstadoPrestamo",
+    "RelativePath": "api/EstadoPrestamo",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reg",
+        "Type": "ProyectoBiblioteca.Models.Estado_Prestamo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoBiblioteca.Controllers.EstadoPrestamoController",
+    "Method": "obtenerEstadoPrestamoPorId",
+    "RelativePath": "api/EstadoPrestamo/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoBiblioteca.Controllers.EstadoPrestamoController",
+    "Method": "eliminarEstadoPrestamo",
+    "RelativePath": "api/EstadoPrestamo/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoBiblioteca.Controllers.LibroController",
+    "Method": "obtenerLibros",
+    "RelativePath": "api/Libro",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoBiblioteca.Controllers.LibroController",
+    "Method": "registrarLibro",
+    "RelativePath": "api/Libro",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reg",
+        "Type": "ProyectoBiblioteca.Models.Libro",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoBiblioteca.Controllers.LibroController",
+    "Method": "actualizarLibro",
+    "RelativePath": "api/Libro",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reg",
+        "Type": "ProyectoBiblioteca.Models.Libro",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoBiblioteca.Controllers.LibroController",
+    "Method": "obtenerLibro",
+    "RelativePath": "api/Libro/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoBiblioteca.Controllers.LibroController",
+    "Method": "eliminarLibro",
+    "RelativePath": "api/Libro/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoBiblioteca.Controllers.PrestamoController",
+    "Method": "obtenerPrestamos",
+    "RelativePath": "api/Prestamo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoBiblioteca.Controllers.PrestamoController",
+    "Method": "registrarPrestamo",
+    "RelativePath": "api/Prestamo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reg",
+        "Type": "ProyectoBiblioteca.Models.Prestamo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoBiblioteca.Controllers.PrestamoController",
+    "Method": "actualizarPrestamo",
+    "RelativePath": "api/Prestamo",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reg",
+        "Type": "ProyectoBiblioteca.Models.Prestamo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoBiblioteca.Controllers.PrestamoController",
+    "Method": "obtenerPrestamoPorId",
+    "RelativePath": "api/Prestamo/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoBiblioteca.Controllers.PrestamoController",
+    "Method": "eliminarPrestamo",
+    "RelativePath": "api/Prestamo/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoBiblioteca.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ProyectoBiblioteca.WeatherForecast, ProyectoBiblioteca, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

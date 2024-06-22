@@ -1,0 +1,777 @@
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\appsettings.Development.json
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\appsettings.json
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.exe
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.deps.json
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.runtimeconfig.json
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.pdb
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Azure.Core.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Azure.Identity.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Memory.Data.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.csproj.AssemblyReference.cache
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.AssemblyInfoInputs.cache
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.AssemblyInfo.cs
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.csproj.CoreCompileInputs.cache
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.MvcApplicationPartsAssemblyInfo.cs
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.MvcApplicationPartsAssemblyInfo.cache
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets.build.json
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets.development.json
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.ProyectoBiblioteca.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.build.ProyectoBiblioteca.props
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoBiblioteca.props
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProyectoBiblioteca.props
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets.pack.json
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\scopedcss\bundle\ProyectoBiblioteca.styles.css
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\Proyecto.02D7E3BE.Up2Date
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\refint\ProyectoBiblioteca.dll
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.pdb
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.genruntimeconfig.cache
+D:\DesarollloWeb\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ref\ProyectoBiblioteca.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\appsettings.Development.json
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\appsettings.json
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.exe
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.deps.json
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.runtimeconfig.json
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.pdb
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Azure.Core.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Azure.Identity.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Memory.Data.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.csproj.AssemblyReference.cache
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.AssemblyInfoInputs.cache
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.AssemblyInfo.cs
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.csproj.CoreCompileInputs.cache
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.MvcApplicationPartsAssemblyInfo.cs
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.MvcApplicationPartsAssemblyInfo.cache
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets.build.json
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets.development.json
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.ProyectoBiblioteca.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.build.ProyectoBiblioteca.props
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoBiblioteca.props
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProyectoBiblioteca.props
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets.pack.json
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\scopedcss\bundle\ProyectoBiblioteca.styles.css
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\Proyecto.02D7E3BE.Up2Date
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\refint\ProyectoBiblioteca.dll
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.pdb
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.genruntimeconfig.cache
+D:\DesarollloWeb\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ref\ProyectoBiblioteca.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\appsettings.Development.json
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\appsettings.json
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.exe
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.deps.json
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.runtimeconfig.json
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.pdb
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Azure.Core.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Azure.Identity.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Memory.Data.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\de\Microsoft.Data.SqlClient.resources.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\es\Microsoft.Data.SqlClient.resources.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\fr\Microsoft.Data.SqlClient.resources.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\it\Microsoft.Data.SqlClient.resources.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ja\Microsoft.Data.SqlClient.resources.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ko\Microsoft.Data.SqlClient.resources.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ru\Microsoft.Data.SqlClient.resources.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.csproj.AssemblyReference.cache
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.AssemblyInfoInputs.cache
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.AssemblyInfo.cs
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.csproj.CoreCompileInputs.cache
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.MvcApplicationPartsAssemblyInfo.cs
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.MvcApplicationPartsAssemblyInfo.cache
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets.build.json
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets.development.json
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.ProyectoBiblioteca.Microsoft.AspNetCore.StaticWebAssets.props
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.build.ProyectoBiblioteca.props
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoBiblioteca.props
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProyectoBiblioteca.props
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets.pack.json
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\scopedcss\bundle\ProyectoBiblioteca.styles.css
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\Proyecto.02D7E3BE.Up2Date
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\refint\ProyectoBiblioteca.dll
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.pdb
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.genruntimeconfig.cache
+F:\jesus\CIBERTEC\ciclo6\desarrollo servicio\proyectofinalBossss\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ref\ProyectoBiblioteca.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\appsettings.Development.json
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\appsettings.json
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.exe
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.deps.json
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.runtimeconfig.json
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.pdb
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Azure.Core.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Azure.Identity.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Memory.Data.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.csproj.AssemblyReference.cache
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.AssemblyInfoInputs.cache
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.AssemblyInfo.cs
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.csproj.CoreCompileInputs.cache
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.MvcApplicationPartsAssemblyInfo.cs
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.MvcApplicationPartsAssemblyInfo.cache
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets.build.json
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets.development.json
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.ProyectoBiblioteca.Microsoft.AspNetCore.StaticWebAssets.props
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.build.ProyectoBiblioteca.props
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoBiblioteca.props
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProyectoBiblioteca.props
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets.pack.json
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\scopedcss\bundle\ProyectoBiblioteca.styles.css
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\Proyecto.02D7E3BE.Up2Date
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\refint\ProyectoBiblioteca.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.pdb
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.genruntimeconfig.cache
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ref\ProyectoBiblioteca.dll
+C:\DWSI_Repository\Proyecto\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.csproj.AssemblyReference.cache
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.AssemblyInfoInputs.cache
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.AssemblyInfo.cs
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\refint\ProyectoBiblioteca.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.pdb
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\appsettings.json
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.exe
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.deps.json
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.runtimeconfig.json
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.pdb
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.ProyectoBiblioteca.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.build.ProyectoBiblioteca.props
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoBiblioteca.props
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProyectoBiblioteca.props
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\scopedcss\bundle\ProyectoBiblioteca.styles.css
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\Proyecto.02D7E3BE.Up2Date
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.genruntimeconfig.cache
+C:\Users\Juanka\Desktop\proyecto 3.0\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ref\ProyectoBiblioteca.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.exe
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.deps.json
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.runtimeconfig.json
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.pdb
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.AssemblyInfo.cs
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.ProyectoBiblioteca.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.build.ProyectoBiblioteca.props
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoBiblioteca.props
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProyectoBiblioteca.props
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\scopedcss\bundle\ProyectoBiblioteca.styles.css
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.csproj.CopyComplete
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\refint\ProyectoBiblioteca.dll
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.pdb
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.genruntimeconfig.cache
+C:\Users\User\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ref\ProyectoBiblioteca.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\appsettings.json
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.exe
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.deps.json
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.runtimeconfig.json
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.pdb
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.csproj.AssemblyReference.cache
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.AssemblyInfoInputs.cache
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.AssemblyInfo.cs
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.ProyectoBiblioteca.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.build.ProyectoBiblioteca.props
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoBiblioteca.props
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProyectoBiblioteca.props
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\scopedcss\bundle\ProyectoBiblioteca.styles.css
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\Proyecto.02D7E3BE.Up2Date
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\refint\ProyectoBiblioteca.dll
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.pdb
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.genruntimeconfig.cache
+C:\Users\Juanka\Desktop\PROYECTO MODIFICACION JUANKA\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ref\ProyectoBiblioteca.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\appsettings.json
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.exe
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.deps.json
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.runtimeconfig.json
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.pdb
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.csproj.AssemblyReference.cache
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.AssemblyInfoInputs.cache
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.AssemblyInfo.cs
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.ProyectoBiblioteca.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.build.ProyectoBiblioteca.props
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoBiblioteca.props
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProyectoBiblioteca.props
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\scopedcss\bundle\ProyectoBiblioteca.styles.css
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\Proyecto.02D7E3BE.Up2Date
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\refint\ProyectoBiblioteca.dll
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.pdb
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.genruntimeconfig.cache
+C:\Users\msi\Desktop\Proyecto DSW\PROYECTO\API\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ref\ProyectoBiblioteca.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\appsettings.Development.json
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\appsettings.json
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.exe
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.deps.json
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.runtimeconfig.json
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.pdb
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Azure.Core.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Azure.Identity.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Memory.Data.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\de\Microsoft.Data.SqlClient.resources.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\es\Microsoft.Data.SqlClient.resources.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\fr\Microsoft.Data.SqlClient.resources.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\it\Microsoft.Data.SqlClient.resources.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ja\Microsoft.Data.SqlClient.resources.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ko\Microsoft.Data.SqlClient.resources.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ru\Microsoft.Data.SqlClient.resources.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.csproj.AssemblyReference.cache
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.AssemblyInfoInputs.cache
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.AssemblyInfo.cs
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.csproj.CoreCompileInputs.cache
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.MvcApplicationPartsAssemblyInfo.cs
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.MvcApplicationPartsAssemblyInfo.cache
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets.build.json
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets.development.json
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.ProyectoBiblioteca.Microsoft.AspNetCore.StaticWebAssets.props
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.build.ProyectoBiblioteca.props
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoBiblioteca.props
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProyectoBiblioteca.props
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets.pack.json
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\scopedcss\bundle\ProyectoBiblioteca.styles.css
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\Proyecto.02D7E3BE.Up2Date
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\refint\ProyectoBiblioteca.dll
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.pdb
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.genruntimeconfig.cache
+F:\jesus\CIBERTEC\ciclo6\moviles\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ref\ProyectoBiblioteca.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.exe
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.deps.json
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.runtimeconfig.json
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ProyectoBiblioteca.pdb
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.AssemblyInfo.cs
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.ProyectoBiblioteca.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.build.ProyectoBiblioteca.props
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoBiblioteca.props
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProyectoBiblioteca.props
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\scopedcss\bundle\ProyectoBiblioteca.styles.css
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\Proyecto.02D7E3BE.Up2Date
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\refint\ProyectoBiblioteca.dll
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.pdb
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ProyectoBiblioteca.genruntimeconfig.cache
+C:\Users\User\Desktop\API REST PARA ANDROID\Codigo Fuente Back\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net6.0\ref\ProyectoBiblioteca.dll
